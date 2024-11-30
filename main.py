@@ -1,8 +1,8 @@
 # from config import Config, load_config
 import telebot
 
-config: Config = load_config()
-BOT_TOKEN: str = config.tg_bot.token
+# config: Config = load_config()
+# BOT_TOKEN: str = config.tg_bot.token
 
 # Создаем объекты бота и диспетчера
 # bot = Bot(BOT_TOKEN)
